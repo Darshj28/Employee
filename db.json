@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "employee": [
+    {
+      "name": "kumar",
+      "date": "2022-09-27",
+      "empcode": "202",
+      "status": "working",
+      "id": 4
+    },
+    {
+      "name": "rahul",
+      "empcode": "3001",
+      "status": "working",
+      "id": 5
+    },
+    {
+      "name": "ayush",
+      "empcode": "3001",
+      "status": "working",
+      "id": 6
+    },
+    {
+      "name": "rohan",
+      "empcode": "601",
+      "status": "working",
+      "id": 7
+    },
+    {
+      "name": "rohit",
+      "empcode": "440",
+      "status": "working",
+      "id": 8
+    }
+  ]
+}
